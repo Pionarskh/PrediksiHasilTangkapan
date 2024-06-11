@@ -1,0 +1,11 @@
+1. Pastikan sudah terinstall python
+2. jalankan command ini untuk install beberapa package/library:
+    - pip3 install -U scikit-learn scipy matplotlib
+    - pip install streamlit
+    - pip install setuptools
+    - pip install tensorflow
+    - pip install openpyxl
+3. jalankan website dengan cara:
+    - streamlit run app.py
+    atau jika error bisa menggunakan:
+    - python -m streamlit run    

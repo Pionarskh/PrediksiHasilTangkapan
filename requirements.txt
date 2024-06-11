@@ -1,0 +1,6 @@
+Streamlit==1.35.0
+Tensorflow==2.16.1
+Openpyxl==3.1.3
+scikit-learn==1.5.0
+scipy
+matplotlib
